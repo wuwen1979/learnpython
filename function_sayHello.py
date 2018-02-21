@@ -1,6 +1,6 @@
 #coding=utf-8
 """
-    用sayhello学习函数的应用
+    通过sayhello学习函数的应用
 """
 
 

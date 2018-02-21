@@ -3,3 +3,4 @@
     跟世界说hello
 """
 print("hello,world")
+print("你好")
