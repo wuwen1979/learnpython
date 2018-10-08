@@ -1,9 +1,9 @@
-'''
+"""
 猜数游戏
 created by 2018-09-27
 author 武文
 version:1.0
-'''
+"""
 
 for i in range(1, 11):
 
