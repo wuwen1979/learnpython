@@ -1,25 +1,32 @@
-#coding=utf-8
+# coding=utf-8
 """
     通过sayhello学习函数的应用
 """
 
 
-def sayHello():
+def sayhello():
     print("你好")
     print("hello,world")
-sayHello()
 
 
-def sayHi(x):
-    if x=='dog':
+sayhello()
+
+
+def sayhi(x):
+    if x == 'dog':
         print("汪，汪!")
-    elif x=='cat':
+    elif x == 'cat':
         print("喵,喵")
-sayHi('dog')
 
-def sayHi():
+
+sayhi('dog')
+
+
+def sayhi():
     global x
-    print("x is ",x)
-    print("x is ",x)
-x=50
-sayHi()
+    print("x is ", x)
+    print("x is ", x)
+
+
+x = 50
+sayhi()
