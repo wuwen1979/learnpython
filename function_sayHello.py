@@ -4,12 +4,12 @@
 """
 
 
-def sayhello():
+def sayhi():
     print("你好")
     print("hello,world")
 
 
-sayhello()
+sayhi()
 
 
 def sayhi(x):
